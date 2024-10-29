@@ -5,7 +5,7 @@ html {
 body {
     position: relative;
     height: 100%;
-    background: linear-gradient(#242625 25%, #303133 50%, #303133 50%, #242625 100%);
+    background: #000;
     color: #a4a8a4;
     font-size: 14px;
     font-family: "Inter", sans-serif
