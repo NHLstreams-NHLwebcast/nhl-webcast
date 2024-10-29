@@ -5,7 +5,9 @@ html {
 body {
     position: relative;
     height: 100%;
-    background: #000;
+     background-color: #;
+    background-repeat: repeat;
+    background-image: url(https://nflhunter.com/wp-content/uploads/2023/08/grid-pattern.png)!important;
     color: #a4a8a4;
     font-size: 14px;
     font-family: "Inter", sans-serif
